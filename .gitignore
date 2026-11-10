@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-seed
+coverage
+.env
+.env.local
+*.log
+.DS_Store
+.turbo
+apps/web/dist
+apps/api/dist
+packages/shared/dist
+.idea
+.vscode
+*.tsbuildinfo

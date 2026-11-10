@@ -1,0 +1,16 @@
+.git
+.github
+node_modules
+**/node_modules
+**/dist
+**/dist-seed
+**/coverage
+**/*.spec.ts
+.env
+.env.*
+!.env.example
+docs
+load
+*.md
+.vscode
+.idea
