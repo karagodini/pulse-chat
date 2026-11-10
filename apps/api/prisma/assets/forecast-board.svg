@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" fill="none">
+  <rect width="960" height="600" rx="28" fill="#F4EFE6"/>
+  <rect x="36" y="32" width="888" height="76" rx="18" fill="#FFFCF8" stroke="#E4D8C8"/>
+  <text x="60" y="78" fill="#1C1915" font-family="Georgia, serif" font-size="28">Forecast board</text>
+  <rect x="742" y="52" width="150" height="36" rx="18" fill="#FF4D2E"/>
+  <text x="766" y="75" fill="#FFF8F4" font-family="Georgia, serif" font-size="13">Start from last quarter</text>
+  <rect x="36" y="132" width="888" height="432" rx="22" fill="#FFFCF8" stroke="#E4D8C8"/>
+  <text x="72" y="250" fill="#1C1915" font-family="Georgia, serif" font-size="32">No forecast yet</text>
+  <text x="72" y="286" fill="#6F675C" font-family="Georgia, serif" font-size="16">Last quarter is ready when you are. Nothing else needs to be here.</text>
+  <rect x="72" y="318" width="210" height="40" rx="20" fill="#1C1915"/>
+  <text x="96" y="343" fill="#F4EFE6" font-family="Georgia, serif" font-size="14">Start from last quarter</text>
+</svg>
